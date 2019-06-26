@@ -1,0 +1,56 @@
+Problem Definition:-
+
+1)Contoso is a multinational company.
+2)It has 12 offices all over the world.
+3)The aim is to build and host a website for all the employees.
+4)All the employees should be able to access Corporate 
+   Customer Accounting related information.
+5)The company wants to build and host this information 
+   system.
+6)The information should be built and hosted in public cloud
+    Google cloud Platform or Amazon Web Services.
+7)Since the information is built and hosted in public google
+   cloud platform or AWS it will be very easy and feasible 
+   for all the employees to access the information.
+8)Hence we can provide the information to all the employees
+   regardless of the place they belongs to using google cloud.
+9)This helps in saving time and resources used to provide 
+   the information to all the employee situated at 12 different
+   offices all over the world.
+10)I am going to build and host this information using GitHub
+     repository.  
+
+
+Functional Requirements for Employees:-
+
+1)Registration of the Employees.
+2)Login of the Employees.
+3)Create Corporate Customer Account.
+4)Corporate Customer Accounting related information.
+5)Delete Corporate Customer Account.
+6)Update Corporate Customer Account.
+7)Give Feedback and Comments.
+8)Logout
+
+
+Functional Requirements for Admin:-
+
+1)Admin registration.
+2)Admin login.
+3)Admin can update the information on database.
+4)Admin can delete  the information on database.
+5)Admin should be able to access the feedback of the Employees.
+
+
+Non-Functional Requirements:-
+
+1)The information should be safe and secure.
+2)The information should be language independent.
+3)The information should be clearly defined.
+4)It should be quick  responsive in nature.
+5)The information should be properly presented.
+6)Scalable:-The information should be scalable in nature.
+6)Availability:-The information should be available to all th employees over the world. 
+
+
+
